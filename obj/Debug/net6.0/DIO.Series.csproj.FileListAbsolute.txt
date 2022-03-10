@@ -1,0 +1,15 @@
+E:\Downloads\4d894e9f-e729-4e13-bd89-21094aec4415\dio-dotnet-poo-lab-2-master\bin\Debug\net6.0\DIO.Series.exe
+E:\Downloads\4d894e9f-e729-4e13-bd89-21094aec4415\dio-dotnet-poo-lab-2-master\bin\Debug\net6.0\DIO.Series.deps.json
+E:\Downloads\4d894e9f-e729-4e13-bd89-21094aec4415\dio-dotnet-poo-lab-2-master\bin\Debug\net6.0\DIO.Series.runtimeconfig.json
+E:\Downloads\4d894e9f-e729-4e13-bd89-21094aec4415\dio-dotnet-poo-lab-2-master\bin\Debug\net6.0\DIO.Series.dll
+E:\Downloads\4d894e9f-e729-4e13-bd89-21094aec4415\dio-dotnet-poo-lab-2-master\bin\Debug\net6.0\ref\DIO.Series.dll
+E:\Downloads\4d894e9f-e729-4e13-bd89-21094aec4415\dio-dotnet-poo-lab-2-master\bin\Debug\net6.0\DIO.Series.pdb
+E:\Downloads\4d894e9f-e729-4e13-bd89-21094aec4415\dio-dotnet-poo-lab-2-master\obj\Debug\net6.0\DIO.Series.csproj.AssemblyReference.cache
+E:\Downloads\4d894e9f-e729-4e13-bd89-21094aec4415\dio-dotnet-poo-lab-2-master\obj\Debug\net6.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\4d894e9f-e729-4e13-bd89-21094aec4415\dio-dotnet-poo-lab-2-master\obj\Debug\net6.0\DIO.Series.AssemblyInfoInputs.cache
+E:\Downloads\4d894e9f-e729-4e13-bd89-21094aec4415\dio-dotnet-poo-lab-2-master\obj\Debug\net6.0\DIO.Series.AssemblyInfo.cs
+E:\Downloads\4d894e9f-e729-4e13-bd89-21094aec4415\dio-dotnet-poo-lab-2-master\obj\Debug\net6.0\DIO.Series.csproj.CoreCompileInputs.cache
+E:\Downloads\4d894e9f-e729-4e13-bd89-21094aec4415\dio-dotnet-poo-lab-2-master\obj\Debug\net6.0\DIO.Series.dll
+E:\Downloads\4d894e9f-e729-4e13-bd89-21094aec4415\dio-dotnet-poo-lab-2-master\obj\Debug\net6.0\ref\DIO.Series.dll
+E:\Downloads\4d894e9f-e729-4e13-bd89-21094aec4415\dio-dotnet-poo-lab-2-master\obj\Debug\net6.0\DIO.Series.pdb
+E:\Downloads\4d894e9f-e729-4e13-bd89-21094aec4415\dio-dotnet-poo-lab-2-master\obj\Debug\net6.0\DIO.Series.genruntimeconfig.cache
